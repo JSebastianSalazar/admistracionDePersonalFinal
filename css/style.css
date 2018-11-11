@@ -12,3 +12,9 @@
 .icon-block .material-icons {
 	font-size: inherit;
 }
+#navar {
+  background-color: #00448c;
+}
+#footer {
+  background-color: #ffd200 !important;
+}
